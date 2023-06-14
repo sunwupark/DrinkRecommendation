@@ -1,0 +1,30 @@
+Number,Name,Bitter,Sweet,Sour,Spicy,Salty,Carbonated,Main Ingredients,Type,Average ABV
+0,Dry Red Wine,1,0,1,0,0,0,Red grape,Fermented,14
+1,Sweet Red Wine,0,1,1,0,0,0,Red grape,Fermented,10
+2,Dry White Wine,1,0,1,0,0,0,White grape,Fermented,13
+3,Sweet White Wine,0,1,1,0,0,0,White grape,Fermented,10
+4,Sparkling Wine,0,1,1,0,0,1,"Red grape, White grape",Fermented,12
+5,Rose Wine,1,0,1,0,0,0,Red grape,Fermented,12
+6,Scotch Whiskey,1,0,0,1,0,0,"Malted barley, Oak",Distilled,40
+7,Bourbon Whiskey,1,1,0,1,0,0,"Corn, Barley, Rye, Oak",Distilled,45
+8,Irish Whiskey,1,0,0,1,0,0,"Malted barley, Oak",Distilled,40
+9,Japanese Whiskey,1,1,0,1,0,0,"Malted barley, Oak",Distilled,40
+10,Pale Ale Beer,1,0,0,1,0,1,"Pale Malt, Hops",Fermented,5
+11,Lager Beer,0,1,0,1,0,1,"Malted barley, Wheat, Hops",Fermented,5
+12,Gin,1,0,1,1,0,0,"Juniper berry, Grain",Distilled,40
+13,Rum,1,1,0,1,0,0,Sugarcane,Distilled,50
+14,Vodka,1,0,0,0,0,0,Grain,Distilled,40
+15,Tequila,1,0,0,1,0,0,Agave,Distilled,40
+16,Brandy,1,1,1,1,0,0,White grape,Distilled,45
+17,Sake,1,0,1,0,0,0,Rice,Fermented,15
+18,Cider,0,1,1,1,0,1,Apple,Fermented,5
+19,Dry Martini,1,0,1,1,1,0,"Gin, Vermouth",Distilled,30
+20,Manhattan,1,1,1,1,0,0,"Whiskey, Vermouth",Distilled,32
+21,Old Fashioned,1,0,0,1,0,0,Whiskey,Distilled,32
+22,Cosmopolitan,1,1,1,0,0,0,"Vodka, Lime, Cranberry",Distilled,25
+23,Bloody Mary,1,1,1,1,1,0,"Vodka, Tabasco, Tomato",Distilled,15
+24,Mojito,0,1,1,1,0,1,"Rum, Mint, Lime",Distilled,13
+25,Long Island Iced Tea,1,1,0,0,0,1,"Gin, Vodka, Rum, Tequila, Lemon, Cola",Distilled,22
+26,Gin and Tonic,1,1,1,0,0,1,"Gin, Tonic, Lime",Distilled,10
+27,Jack and Coke,1,1,0,1,0,1,"Whiskey, Cola",Distilled,10
+28,Margarita,1,0,1,0,1,0,"Tequila, Lime",Distilled,34

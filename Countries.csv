@@ -1,0 +1,196 @@
+Country,Continent,Wine,Beer,Spirits,RWine,RBeer,RSpirits
+Algeria,Africa & Middle East,48.0,39.0,13.0,5.0,4.0,1.0
+Angola,Africa & Middle East,14.0,67.0,19.0,5.0,4.0,1.0
+Benin,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Bostwana,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Burkina,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Burundi,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Cameroon,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Cape Verde,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Central African Republic,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Chad,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Comoros,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Democratic Republic of the Congo,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Djibouti,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Egypt,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Equatorial Guinea,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Eritrea,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Gabon,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Gambia,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Ghana,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Guinea,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Guinea-Bissau,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Ivory Coast,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Kenya,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Lesotho,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Liberia,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Libya,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Madagascar,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Malawi,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Mali,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Mauritania,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Mauritius,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Morocco,Africa & Middle East,48.0,36.0,15.0,5.0,4.0,1.0
+Mozambique,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Namibia,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Niger,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Nigeria,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Republic of the Congo,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Rwanda,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Sao Tome and Principe,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Senegal,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Seychelles,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Sierra Leone,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Somalia,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+South Africa,Africa & Middle East,21.0,68.0,11.0,2.0,7.0,1.0
+South Sudan,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Sudan,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Swaziland,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Tanzania,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Togo,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Tunisia,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Uganda,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Zambia,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Zimbabwe,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Afghanistan,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Bahrain,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Iran,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Iraq,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Israel,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Jordan,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Kuwait,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Lebanon,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Oman,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Qatar,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Saudi Arabia,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+State of Palestaine,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Syria,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Turkey,Africa & Middle East,9.0,58.0,34.0,1.0,6.0,3.0
+United Arab Emirates,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Yemen,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Cyprus,Africa & Middle East,14.0,67.0,19.0,1.0,7.0,2.0
+Bangladesh,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Bhutan,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Brunei,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Burma,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Cambodia,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+China,Asia,4.0,44.0,52.0,1.0,4.0,5.0
+East Timor,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Hong Kong,Asia,29.0,53.0,17.0,3.0,5.0,2.0
+India,Asia,0.0,15.0,85.0,0.0,2.0,8.0
+Indonesia,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Japan,Asia,5.0,21.0,77.0,1.0,2.0,7.0
+Kazakhstan,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Kyrgyzstan,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Laos,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Malaysia,Asia,5.0,74.0,21.0,1.0,7.0,2.0
+Maldives,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Mongolia,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Nepal,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+North Korea,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Pakistan,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Philippines,Asia,0.0,26.0,74.0,0.0,3.0,7.0
+Russia,Asia,11.0,39.0,49.0,1.0,4.0,5.0
+Singapore,Asia,15.0,71.0,14.0,2.0,7.0,1.0
+South Korea,Asia,2.0,2.0,96.0,0.0,0.0,10.0
+Sri Lanka,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Taijikistan,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Taiwan,Asia,4.0,42.0,54.0,1.0,4.0,5.0
+Thailand,Asia,0.0,26.0,74.0,0.0,3.0,7.0
+Turkmenistan,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Uzbekistan,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Vietnam,Asia,4.0,34.0,62.0,1.0,3.0,6.0
+Belarus,East Europe,14.0,42.0,44.0,2.0,4.0,4.0
+Bulgaria,East Europe,18.0,37.0,44.0,2.0,4.0,4.0
+CZ,East Europe,14.0,42.0,44.0,2.0,4.0,4.0
+Hungary,East Europe,30.0,36.0,34.0,3.0,4.0,3.0
+Moldova,East Europe,43.0,22.0,35.0,4.0,2.0,4.0
+Poland,East Europe,14.0,42.0,44.0,2.0,4.0,4.0
+Romania,East Europe,31.0,53.0,16.0,3.0,5.0,2.0
+Slovakia,East Europe,14.0,42.0,44.0,2.0,4.0,4.0
+Ukraine,East Europe,9.0,39.0,52.0,1.0,4.0,5.0
+Albania,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Andorra,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Armenia,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Austria,Europe,35.0,51.0,14.0,4.0,5.0,1.0
+Azerbaijan,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Bosnia and Herzegovina,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Croatia,Europe,51.0,39.0,11.0,5.0,4.0,1.0
+Denmark,Europe,47.0,38.0,16.0,5.0,4.0,1.0
+Estonia,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Finland,Europe,21.0,53.0,26.0,2.0,5.0,3.0
+Georgia,Europe,49.0,21.0,31.0,5.0,2.0,3.0
+Germany,Europe,28.0,53.0,19.0,3.0,5.0,2.0
+Greece,Europe,53.0,27.0,20.0,5.0,3.0,2.0
+Iceland,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Italy,Europe,65.0,23.0,11.0,7.0,2.0,1.0
+Latvia,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Liechtenstein,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Lithuania,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Macedonia,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Malta,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Montenegro,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Norway,Europe,29.0,35.0,36.0,2.0,4.0,4.0
+Portugal,Europe,65.0,27.0,8.0,6.0,3.0,1.0
+San Marino,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Serbia,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Spain,Europe,22.0,48.0,29.0,2.0,5.0,3.0
+Sweden,Europe,49.0,37.0,15.0,5.0,3.0,2.0
+Switzerland,Europe,47.0,34.0,19.0,5.0,3.0,2.0
+Vatican City,Europe,38.0,40.0,32.0,3.0,4.0,3.0
+Antigua and Barbuda,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Bahamas,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Brabados,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Belize,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Canada,North America,24.0,50.0,26.0,2.0,5.0,3.0
+Costa Rica,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Cuba,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Dominica,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Dominican Republic,North America,18.0,49.0,33.0,2.0,5.0,3.0
+El Salvador,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Grenada,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Guatemala,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Haiti,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Honduras,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Jamaica,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Mexico,North America,3.0,75.0,22.0,1.0,7.0,2.0
+Nicaragua,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Panama,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Saint Kitts and Nevis,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Saint Lucia,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Saint Vincent and the Grenadines,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Trinidad and Tobago,North America,18.0,49.0,33.0,2.0,5.0,3.0
+US,North America,18.0,49.0,33.0,2.0,5.0,3.0
+Australia,Oceania,40.0,46.0,14.0,4.0,5.0,1.0
+Fiji,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Kiribati,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Marshall Islands,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Micronesia,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Nauru,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+New Zealand,Oceania,38.0,43.0,19.0,4.0,4.0,2.0
+Palau,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Papua New Guinea,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Samoa,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Solomon Islands,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Tonga,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Tuvalu,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Vanuatu,Oceania,4.0,34.0,62.0,1.0,3.0,6.0
+Argentina,South America,50.0,44.0,5.0,5.0,4.0,1.0
+Bolivia,South America,11.0,60.0,29.0,1.0,6.0,3.0
+Brazil,South America,5.0,61.0,34.0,1.0,6.0,3.0
+Chile,South America,35.0,37.0,28.0,4.0,4.0,2.0
+Colombia,South America,11.0,60.0,29.0,1.0,6.0,3.0
+Ecuador,South America,11.0,60.0,29.0,1.0,6.0,3.0
+Guyana,South America,11.0,60.0,29.0,1.0,6.0,3.0
+Paraguay,South America,11.0,60.0,29.0,1.0,6.0,3.0
+Peru,South America,11.0,60.0,29.0,1.0,6.0,3.0
+Suriname,South America,11.0,60.0,29.0,1.0,6.0,3.0
+Uruguay,South America,56.0,33.0,11.0,6.0,3.0,1.0
+Venezuela,South America,11.0,60.0,29.0,1.0,6.0,3.0
+Belgium,West Europe,35.0,51.0,14.0,4.0,5.0,1.0
+France,West Europe,59.0,19.0,23.0,6.0,2.0,2.0
+Ireland,West Europe,28.0,52.0,21.0,3.0,5.0,2.0
+Luxembourg,West Europe,35.0,51.0,14.0,4.0,5.0,1.0
+Monaco,West Europe,42.0,38.0,20.0,4.0,4.0,2.0
+Netherlands,West Europe,35.0,48.0,17.0,3.0,5.0,2.0
+UK,West Europe,41.0,37.0,22.0,4.0,4.0,2.0
